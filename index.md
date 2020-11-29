@@ -46,7 +46,7 @@ This game is a multi-player dogfight game, developed with Unity3D. It was my fir
 
 This project goal was to replace the static github.io website I'm currently using as a portfolio. The site is composed of a React web app and  a Deno server. It is a semi-static website in which pages are generated from Markdown with added syntax for dynamically displaying the content of a folder with page preview. The Deno server just provides the content and the web app. And the front end react act parses and renders the markdown. This website is made with the intent of making it accessible for people with attention deficit disorder. 
 
-### [More projects](https://github.com/oxabz/Projet-IUT-S3-CPP)  
+### [More projects](https://github.com/oxabz/)  
 
 ## About me :
 ### Quick video : 
