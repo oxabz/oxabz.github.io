@@ -1,3 +1,5 @@
+ <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">  
+
 ## Welcome
 
 Welcome to the v0 of my blog and portfolio. Here you'll find my projects and articles I've written. 
