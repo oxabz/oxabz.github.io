@@ -62,8 +62,8 @@ Here's  a quick video about what you need to know about me and the path that bro
 <iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
 
 ### Contact
-
-- mail : [legmatt0@gmail.com](mailto:legmatt0@gmail.com)
+<i class="far fa-envelope"></i>
+- <i class="far fa-envelope"></i> mail : [legmatt0@gmail.com](mailto:legmatt0@gmail.com)
 - phone : [+33 7 89 57 94 37](tel:+33-7-89-57-94-37)
 - github : [oxabz](https://github.com/oxabz)
 - linked in
