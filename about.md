@@ -5,14 +5,16 @@ I'm a French student in computer science at the [ENSEEIHT](https://www.enseeiht.
 <iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
 
 ## Formations
-|              | Diploma                      | School              |          |
+
+| year         | Diploma                      | School              |          |
 |--------------|------------------------------|---------------------|----------|
 | 2020 to 2023 | Engineering school           | ENSEEIHT            | Toulouse |
 | 2018 to 2020 | DUT : informatique           | IUT2 of UGA         | Grenoble |
 | 2015 to 2018 | Highschool :  Bac S Spe Math | Lycée Camille Corot | Morestel |
 
 ## Professional Experiences
-|           | Type           | Employer        | Role                  |
+
+| year      | Type           | Employer        | Role                  |
 |-----------|----------------|-----------------|-----------------------|
 | 2020-2023 | Apprenticeship | CHU Toulouse    | Full-stack Develloper |
 | 2020      | Internship     | Dovikino Studio | Game Developer        |
@@ -47,3 +49,4 @@ I'm a French student in computer science at the [ENSEEIHT](https://www.enseeiht.
 - Project Management 
 - Adaptability
 - Fluent in english 
+
