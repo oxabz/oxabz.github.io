@@ -1,27 +1,26 @@
+## Welcome
 
-Welcome to the v0 of my blog and portfolio. 
+Welcome to the v0 of my blog and portfolio. Here you'll find my projects and articles I've written. 
 
 ## Projects
 
 Through the years I've worked on several projects. I consider that those projects are the best learning experience I had. I had plenty of failed and completed both equally interesting.
 
 ### Zeloth : A Text adventure :
-
-- **categorie** : video game
+- **categories** : video game
 - **language** : C++
 - **techs** : 
   - json
   - ncurse
 - **dates** : 2018 (in progress)
 
-Zeloth was initialy concieved as a text based adventure video game. It was a shared project with a collegue. saddly the collegue that was writting the dialogues for the game was unable to work on it due to school.
-The project was mainly completed code wise. So I decided on transforming the game in a framework for text adventure. The story writter is entirely done through json but I intend on adding a GUI for helping the story writter.
-Zeloth was incidentaly my first C++ project and my first object oriented progaming project. 
+Zeloth was initially conceived as a text based adventure video game. It was a shared project with a colleague. Sadly the colleague that was meant to write the dialogues for the game was unable to work on it due to school.
+The project was mainly completed code wise. So I decided on transforming the game in a framework for text adventure. The story writer is entirely done through json but I intend on adding a GUI for helping the story writer.
+Zeloth was incidentally my first C++ project and my first object-oriented programming project. 
 [more](https://github.com/oxabz/Zeloth-text-adventure)
 
 ### Micro language compiler and interpreter :
-
-- **categorie** : compiler & interpreter
+- **categories** : compiler & interpreter
 - **language** : C++
 - **dates** : 2019
 
@@ -30,8 +29,7 @@ I created my simple programing language. The created the parser for that languag
 [more](https://github.com/oxabz/Projet-IUT-S3-CPP)
 
 ### An untitled dogfight game: 
-
-- **categorie** : video game
+- **categories** : video game
 - **language** : C#, HLSL 
 - **game engine** : Unity
 - **date** : 2020
@@ -39,19 +37,33 @@ I created my simple programing language. The created the parser for that languag
 This game is a multi-player dogfight game, developed with Unity3D. It was my first serious attempt to a 3D game. This project was a way for me to learn about rendering, GPU computing, and video game networked multiplayer. The main a project I used for the training I needed in Unity3D before my Internship at Dovikino Studio a small video game studio.
 
 ### Blog Framework :
-
-- **categorie** : Website
+- **categories** : Website
 - **language** : TypeScript, JSX
 - **date** : 2020 (in progress)
 
 This project goal was to replace the static github.io website I'm currently using as a portfolio. The site is composed of a React web app and  a Deno server. It is a semi-static website in which pages are generated from Markdown with added syntax for dynamically displaying the content of a folder with page preview. The Deno server just provides the content and the web app. And the front end react act parses and renders the markdown. This website is made with the intent of making it accessible for people with attention deficit disorder. 
 
-### [More projects](https://github.com/oxabz/)  
+### [More projects](https://github.com/oxabz/Projet-IUT-S3-CPP)  
+
+## Articles 
+
+### Creating a site accessible to people with ADHD
+I lived my whole life with ADHD. It is a handicap that had a huge influence on my whole life. It shaped the way that I act and the way that I worked. So when I wanted to create myself an e-portfolio/blog it had to be taken in consideration. I wanted to create a site both easy for my own use but also for other people with ADHD... [(coming soon)]()
+
+### Compte rendu d'interview (French)
+Le lundi 30 novembre, en visioconférence, j’ai pu interviewer un data scientist du CHU de Toulouse, Prosper Burq. Il est le maitre d’alternance qui va me former et superviser mes trois ans à au CHU. Je me suis intéressé à son parcours professionnel et scolaire et à ses observations sur le milieu du privé et du public. Nous avons aussi pu discuter des dangers et des questions moral qui sont soulevé par le machine learning et la datascience... [(more)](compte-rendu.md)
 
 ## About me :
 ### Quick video : 
 
-Here's  a quick video about what you need to know about me.
+Here's  a quick video about what you need to know about me and the path that brought me to engineering
+<iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
 
-### [More about me](about.md)
+### Contact
 
+- mail : [legmatt0@gmail.com](mailto:legmatt0@gmail.com)
+- phone : [+33 7 89 57 94 37](tel:+33-7-89-57-94-37)
+- github : [oxabz](https://github.com/oxabz)
+- linked in
+
+### [More info](about.md)
