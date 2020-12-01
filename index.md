@@ -1,9 +1,10 @@
+
 <script src="https://kit.fontawesome.com/0b50565179.js" crossorigin="anonymous"></script>
 ## Welcome
 
 Welcome to the v0 of my blog and portfolio. Here you'll find my projects and articles I've written. 
 
-## <i class="fas fa-code"></i>Projects
+## <i class="fas fa-code"></i> Projects
 
 Through the years I've worked on several projects. I consider that those projects are the best learning experience I had. I had plenty of failed and completed both equally interesting.
 
@@ -54,16 +55,16 @@ I lived my whole life with ADHD. It is a handicap that had a huge influence on m
 ### Compte rendu d'interview (French)
 Le lundi 30 novembre, en visioconférence, j’ai pu interviewer un data scientist du CHU de Toulouse, Prosper Burq. Il est le maitre d’alternance qui va me former et superviser mes trois ans à au CHU. Je me suis intéressé à son parcours professionnel et scolaire et à ses observations sur le milieu du privé et du public. Nous avons aussi pu discuter des dangers et des questions moral qui sont soulevé par le machine learning et la datascience... [(more)](compte-rendu.md)
 
-## About me :
+## <i class="fas fa-user"></i> About me :
 ### <i class="fab fa-youtube"></i>Quick video : 
 
 Here's  a quick video about what you need to know about me and the path that brought me to engineering
 <iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
 
-### Contact
-- <i class="fa fa-envelope"></i>mail : [legmatt0@gmail.com](mailto:legmatt0@gmail.com)
-- <i class="fa fa-mobile"></i>phone : [+33 7 89 57 94 37](tel:+33-7-89-57-94-37)
-- <i class="fab fa-github"></i>github : [oxabz](https://github.com/oxabz)
-- <i class="fab fa-linkedin"></i>linked in : [Matthieu Legrand](https://www.linkedin.com/in/matthieu-legrand-51a671185/)
+### <i class="fas fa-share-alt"></i> Contact
+- <i class="fa fa-envelope"></i> mail : [legmatt0@gmail.com](mailto:legmatt0@gmail.com)
+- <i class="fa fa-mobile"></i> phone : [+33 7 89 57 94 37](tel:+33-7-89-57-94-37)
+- <i class="fab fa-github"></i> github : [oxabz](https://github.com/oxabz)
+- <i class="fab fa-linkedin"></i> linked in : [Matthieu Legrand](https://www.linkedin.com/in/matthieu-legrand-51a671185/)
 
 ### [More info](about.md)
