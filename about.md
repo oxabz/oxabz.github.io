@@ -6,7 +6,7 @@ I'm a French student in computer science at the [ENSEEIHT](https://www.enseeiht.
 
 ## Formations
 
-| year         | Diploma                      | School              |          |
+|              | Diploma                      | School              |          |
 |--------------|------------------------------|---------------------|----------|
 | 2020 to 2023 | Engineering school           | ENSEEIHT            | Toulouse |
 | 2018 to 2020 | DUT : informatique           | IUT2 of UGA         | Grenoble |
@@ -14,7 +14,7 @@ I'm a French student in computer science at the [ENSEEIHT](https://www.enseeiht.
 
 ## Professional Experiences
 
-| year      | Type           | Employer        | Role                  |
+|           | Type           | Employer        | Role                  |
 |-----------|----------------|-----------------|-----------------------|
 | 2020-2023 | Apprenticeship | CHU Toulouse    | Full-stack Develloper |
 | 2020      | Internship     | Dovikino Studio | Game Developer        |
@@ -26,12 +26,12 @@ I'm a French student in computer science at the [ENSEEIHT](https://www.enseeiht.
 - Languages : 
 	- C++ : <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i>
 	- C# : <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i>
-	- js++ : <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i>
+	- JavaScript : <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i>
 	- C : <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i>
 	- python : <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i>
-	- hlsl : <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i>
+	- HLSL : <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i>
 	- PHP : <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i>
-	- rust : <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i>
+	- Rust : <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i>
 - Systems : 
 	- Archlinux : <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half-alt"></i>
 	- Debian : <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i>
