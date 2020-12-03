@@ -59,7 +59,7 @@ Le lundi 30 novembre, en visioconférence, j’ai pu interviewer un data scienti
 ### <i class="fab fa-youtube"></i>Quick video : 
 
 Here's  a quick video about what you need to know about me and the path that brought me to engineering
-<iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gpW697RPubA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### <i class="fas fa-share-alt"></i> Contact
 - <i class="fa fa-envelope"></i> mail : [legmatt0@gmail.com](mailto:legmatt0@gmail.com)
