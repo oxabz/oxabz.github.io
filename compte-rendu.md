@@ -7,7 +7,7 @@
 ## Intro
 On Monday 30th of November, I had an interview with a data with one of the data scientist of the university hospital complex of Toulouse, Prosper Burq. He is my current tutor for my apprenticeship. During this interview. Inquired about his career and education. I then asked about his observations of the professional world both in the public and private sector. We then had the time to discuss the danger and the morals dilemmas that are created by the field of data science and machine learning.
 
-##Body
+## Body
 
 ### Carrer and studies
 Prosper Burq started his cursus in math preparatory school then chose ENSEEIHT as a good ranking school for math. He initially planned to prolong his studies at Science Po to focus on political science. But during his time at ENSEEIHT he found an interest in informatics, so he specialized in software conception. After the ENSEEIHT he went on to work in the US. Upon moving back to  France he worked on machine learning and data science at the Société Générale and in a laboratory of applied math of Science Po. He then had to move back into Toulouse where he got hired at the CHU to work on data science project on medical data. He hasn’t thought of any career change yet, as he doesn’t think he’ll get bored anytime soon considering the current state of the data science at the CHU. Allow he doesn’t exclude moving back to the private sector.
