@@ -1,8 +1,8 @@
 # Repot on the Interview 
 
 > Note : Here are the document formated according to the assignement
-> Report : [pdf](compte-rendu.pdf) 
-> Follow-up : [pdf](followup.pdf) 
+> - Report : [pdf](compte-rendu.pdf) 
+> - Follow-up : [pdf](followup.pdf) 
 
 ## Intro
 On Monday 30th of November, I had an interview with a data with one of the data scientist of the university hospital complex of Toulouse, Prosper Burq. He is my current tutor for my apprenticeship. During this interview. Inquired about his career and education. I then asked about his observations of the professional world both in the public and private sector. We then had the time to discuss the danger and the morals dilemmas that are created by the field of data science and machine learning.
