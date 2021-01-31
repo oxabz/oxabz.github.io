@@ -56,13 +56,13 @@ I lived my whole life with ADHD. It is a handicap that had a huge influence on m
 Le lundi 30 novembre, en visioconférence, j’ai pu interviewer un data scientist du CHU de Toulouse, Prosper Burq. Il est le maitre d’alternance qui va me former et superviser mes trois ans à au CHU. Je me suis intéressé à son parcours professionnel et scolaire et à ses observations sur le milieu du privé et du public. Nous avons aussi pu discuter des dangers et des questions moral qui sont soulevé par le machine learning et la datascience... [(more)](compte-rendu.md)
 
 ### Toulouse's CHU RSE
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gpW697RPubA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wp6y4eUqUmk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## <i class="fas fa-user"></i> About me :
 ### <i class="fab fa-youtube"></i>Quick video : 
 
 Here's  a quick video about what you need to know about me and the path that brought me to engineering
-<iframe width="560" height="315" src="https://youtu.be/embed/wp6y4eUqUmk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gpW697RPubA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### <i class="fas fa-share-alt"></i> Contact
 - <i class="fa fa-envelope"></i> mail : [legmatt0@gmail.com](mailto:legmatt0@gmail.com)
