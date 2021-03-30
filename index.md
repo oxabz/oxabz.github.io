@@ -64,6 +64,9 @@ Le lundi 30 novembre, en visioconférence, j’ai pu interviewer un data scienti
 Here's  a quick video about what you need to know about me and the path that brought me to engineering
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gpW697RPubA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### [CV](CV.pdf)
+
+
 ### <i class="fas fa-share-alt"></i> Contact
 - <i class="fa fa-envelope"></i> mail : [legmatt0@gmail.com](mailto:legmatt0@gmail.com)
 - <i class="fa fa-mobile"></i> phone : [+33 7 89 57 94 37](tel:+33-7-89-57-94-37)
