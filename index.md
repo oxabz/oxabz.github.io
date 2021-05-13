@@ -66,6 +66,9 @@ Here's  a quick video about what you need to know about me and the path that bro
 
 ### [CV](CV.pdf)
 
+### Design think your life : 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Aj77z_Co-mg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### <i class="fas fa-share-alt"></i> Contact
 - <i class="fa fa-envelope"></i> mail : [legmatt0@gmail.com](mailto:legmatt0@gmail.com)
